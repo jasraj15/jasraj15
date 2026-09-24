@@ -10,9 +10,33 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jasraj15&label=PROFILE+VISITORS&color=22A8F7&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/jasraj15?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
-  <img src="https://img.shields.io/badge/COFFEE-POWERED-6F4E37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BUILDING-VOXA-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CAFFEINE-POWERED-6F4E37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20AI-22A8F7?style=for-the-badge" />
 </p>
+## 🧠 About Me
 
----
+```javascript
+const jasraj = {
+  role: "Student & Developer",
+
+  learning: [
+    "Java",
+    "DSA",
+    "Web Development",
+    "AI & Machine Learning",
+    "DBMS & SQL"
+  ],
+
+  interests: [
+    "Building Projects",
+    "Hardware & IoT",
+    "Hackathons",
+    "Problem Solving",
+    "Technology",
+    "Open Source"
+  ],
+
+  goal: "Build things that people actually use"
+};
+```
