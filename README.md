@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/CAFFEINE-POWERED-6F4E37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20AI-22A8F7?style=for-the-badge" />
 </p>
-## 🧠 About Me
+# 🧠 About Me
 
 ```javascript
-const jasraj = {
+const Jasraj = {
   role: "Student & Developer",
 
   learning: [
@@ -28,15 +28,22 @@ const jasraj = {
     "DBMS & SQL"
   ],
 
+  currentlyExploring: [
+    "How to build that idea"
+    "AI Agents"
+  ],
+
   interests: [
     "Building Projects",
     "Hardware & IoT",
     "Hackathons",
     "Problem Solving",
-    "Technology",
+    "Travel",
+    "Music",
+    "Sports",
     "Open Source"
   ],
 
-  goal: "Build things that people actually use"
+  goal: "Build. Break. Learn. Repeat."
 };
 ```
