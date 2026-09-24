@@ -52,49 +52,42 @@ const Jasraj = {
 
 ---
 
-<h2>🛠️ Tech Stack</h2>
+<h1>💻 Tech Stack:</h1>
 
-### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
-</p>
-
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=html,react,nodejs,express" />
-</p>
-
-### 🤖 AI & Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-</p>
-
-### 🗄️ Databases & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
-</p>
-
-### ☁️ Cloud & Deployment
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render" />
-</p>
-
-### 🔧 Tools & Development
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
-</p>
-
-### 🔌 Hardware & IoT
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-### 📊 Data & Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" />
-</p>
-
-### 🎨 Creative & Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=plastic&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=plastic&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=plastic&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=matplotlib&logoColor=black" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=plastic&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=plastic&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-%23010101.svg?style=plastic&logo=socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=plastic&logo=swagger&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=canva&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=plastic&logo=adobe-premiere-pro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=plastic&logo=adobe-after-effects&logoColor=white" />
 </p>
