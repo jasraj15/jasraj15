@@ -49,3 +49,52 @@ const Jasraj = {
   goal: "Build. Break. Learn. Repeat."
 };
 ```
+
+---
+
+<h2>🛠️ Tech Stack</h2>
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript" />
+</p>
+
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,react,nodejs,express" />
+</p>
+
+### 🤖 AI & Machine Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+</p>
+
+### 🗄️ Databases & Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,supabase" />
+</p>
+
+### ☁️ Cloud & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,render" />
+</p>
+
+### 🔧 Tools & Development
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker" />
+</p>
+
+### 🔌 Hardware & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</p>
+
+### 📊 Data & Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=numpy,pandas,opencv" />
+</p>
+
+### 🎨 Creative & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender" />
+</p>
