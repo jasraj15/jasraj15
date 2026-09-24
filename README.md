@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/CAFFEINE-POWERED-6F4E37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20AI-22A8F7?style=for-the-badge" />
 </p>
-# 🧠 About Me
+<h1>🧠 About Me</h1>
 
 ```javascript
 const Jasraj = {
@@ -23,13 +23,13 @@ const Jasraj = {
   learning: [
     "Java",
     "DSA",
-    "Web Development",
     "AI & Machine Learning",
-    "DBMS & SQL"
+    "DBMS & SQL",
+    "Chess openings"
   ],
 
   currentlyExploring: [
-    "How to build that idea"
+    "How to build that idea",
     "AI Agents"
   ],
 
@@ -38,6 +38,7 @@ const Jasraj = {
     "Hardware & IoT",
     "Hackathons",
     "Problem Solving",
+    "Chess"
     "Travel",
     "Music",
     "Sports",
