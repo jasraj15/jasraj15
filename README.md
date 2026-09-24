@@ -91,3 +91,53 @@ const Jasraj = {
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=plastic&logo=adobe-premiere-pro&logoColor=white" />
   <img src="https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=plastic&logo=adobe-after-effects&logoColor=white" />
 </p>
+
+---
+
+<h1>🚀 Featured Projects</h1>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🎙️ VOXA</h3>
+      <p>
+        An AI-powered project focused on building useful, intelligent experiences.
+      </p>
+      <p>
+        <b>Tech:</b> AI • Web Development • APIs
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3>🔍 Criminal Network Analysis</h3>
+      <p>
+        An AI-powered system for discovering hidden connections across people, organizations, locations, events and transactions.
+      </p>
+      <p>
+        <b>Tech:</b> AI • NLP • Graph Analytics • ML
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3>💻 More Projects</h3>
+      <p>
+        Exploring ideas, experimenting with technologies and turning concepts into working projects.
+      </p>
+      <p>
+        <b>Focus:</b> AI • IoT • Web • Problem Solving
+      </p>
+    </td>
+
+    <td width="50%">
+      <h3>⚡ Hackathon Builds</h3>
+      <p>
+        Building under pressure, experimenting with ideas and turning rough concepts into prototypes.
+      </p>
+      <p>
+        <b>Focus:</b> Innovation • AI • Rapid Prototyping
+      </p>
+    </td>
+  </tr>
+</table>
