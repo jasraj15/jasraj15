@@ -7,3 +7,12 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22A8F7&width=800&center=true&vCenter=true&lines=Building+Products+People+Actually+Use;Learning+Languages%2C+DSA+%26+Everything+In+Between;Exploring+AI%2C+ML+%26+Ideas+That+Turn+Into+Code;Living+on+Caffeine%2C+Music+%26+Midnight+Thoughts;Eat+-%3E+Code+-%3E+Chess+-%3E+Repeat+-%3E+Sleep" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jasraj15&label=PROFILE+VISITORS&color=22A8F7&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/jasraj15?label=FOLLOWERS&style=for-the-badge&color=8B5CF6" />
+  <img src="https://img.shields.io/badge/COFFEE-POWERED-6F4E37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CURRENTLY-LEARNING%20AI-22A8F7?style=for-the-badge" />
+</p>
+
+---
