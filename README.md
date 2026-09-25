@@ -141,3 +141,21 @@ const Jasraj = {
 <p>
   <b>Security & Integrity:</b> SHA-256 • Append-Only Audit • Merkle-Style Checkpoints
 </p>
+
+---
+
+<h1>🎧 Currently Playing</h1>
+
+<p align="center">
+  🎵 <b>AUJLA SZN 1</b>
+</p>
+
+<p align="center">
+  <i>Currently on repeat • Punjabi vibes • Late-night energy</i>
+</p>
+
+<p align="center">
+  🎶 Karan Aujla • AUJLA SZN 1
+</p>
+
+---
