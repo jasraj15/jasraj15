@@ -98,45 +98,57 @@ const Jasraj = {
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎙️ VOXA</h3>
       <p>
-        An AI-powered project focused on building useful, intelligent experiences.
+        An AI-powered platform built to turn ideas into useful and intelligent experiences.
       </p>
       <p>
         <b>Tech:</b> AI • Web Development • APIs
       </p>
+      <p>
+        🔗 <b>Project</b> &nbsp; • &nbsp; 💻 <b>Source Code</b>
+      </p>
     </td>
 
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🔍 Criminal Network Analysis</h3>
       <p>
-        An AI-powered system for discovering hidden connections across people, organizations, locations, events and transactions.
+        An AI-powered investigation system that connects fragmented evidence to uncover hidden relationships and patterns.
       </p>
       <p>
-        <b>Tech:</b> AI • NLP • Graph Analytics • ML
+        <b>Tech:</b> AI • NLP • ML • Graph Analytics
+      </p>
+      <p>
+        🔗 <b>Project</b> &nbsp; • &nbsp; 💻 <b>Source Code</b>
       </p>
     </td>
   </tr>
 
   <tr>
-    <td width="50%">
-      <h3>💻 More Projects</h3>
+    <td width="50%" valign="top">
+      <h3>🔌 Hardware & IoT</h3>
       <p>
-        Exploring ideas, experimenting with technologies and turning concepts into working projects.
+        Building hardware-based projects and experimenting with sensors, connected devices and real-world automation.
       </p>
       <p>
-        <b>Focus:</b> AI • IoT • Web • Problem Solving
+        <b>Tech:</b> Arduino • IoT • Sensors • Embedded Systems
+      </p>
+      <p>
+        💻 <b>Explore Projects</b>
       </p>
     </td>
 
-    <td width="50%">
-      <h3>⚡ Hackathon Builds</h3>
+    <td width="50%" valign="top">
+      <h3>⚡ Hackathon Projects</h3>
       <p>
-        Building under pressure, experimenting with ideas and turning rough concepts into prototypes.
+        Rapidly turning ideas into working prototypes while exploring AI, software and innovative problem-solving.
       </p>
       <p>
-        <b>Focus:</b> Innovation • AI • Rapid Prototyping
+        <b>Focus:</b> AI • Innovation • Rapid Prototyping
+      </p>
+      <p>
+        🏆 <b>View Hackathon Builds</b>
       </p>
     </td>
   </tr>
