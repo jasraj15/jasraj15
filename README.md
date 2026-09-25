@@ -151,11 +151,33 @@ const Jasraj = {
 </p>
 
 <p align="center">
-  <i>Currently on repeat • Punjabi vibes • Late-night energy</i>
+  <i>Currently on repeat • Pop Culture • Late-night energy</i>
 </p>
 
 <p align="center">
   🎶 Karan Aujla • AUJLA SZN 1
+</p>
+
+---
+
+
+<h1>🧑‍💻 Stuff I Can Do For Hours</h1>
+
+<table>
+  <tr>
+    <td align="center">♟️<br><b>Play Chess</b></td>
+    <td align="center">🎧<br><b>Listen to Music</b></td>
+    <td align="center">☕<br><b>Code with Coffee</b></td>
+  </tr>
+  <tr>
+    <td align="center">💡<br><b>Build Random Ideas</b></td>
+    <td align="center">🤖<br><b>Experiment with AI</b></td>
+    <td align="center">🧩<br><b>Learn Something New</b></td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Good music • Hot coffee • A challenging problem • Zero plans to sleep</i>
 </p>
 
 ---
