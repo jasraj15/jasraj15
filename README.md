@@ -94,62 +94,75 @@ const Jasraj = {
 
 ---
 
+---
+
 <h1>🚀 Featured Projects</h1>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🎙️ VOXA</h3>
-      <p>
-        An AI-powered platform built to turn ideas into useful and intelligent experiences.
-      </p>
-      <p>
-        <b>Tech:</b> AI • Web Development • APIs
-      </p>
-      <p>
-        🔗 <b>Project</b> &nbsp; • &nbsp; 💻 <b>Source Code</b>
-      </p>
-    </td>
+<h2>🎙️ VOXA</h2>
 
-    <td width="50%" valign="top">
-      <h3>🔍 Criminal Network Analysis</h3>
-      <p>
-        An AI-powered investigation system that connects fragmented evidence to uncover hidden relationships and patterns.
-      </p>
-      <p>
-        <b>Tech:</b> AI • NLP • ML • Graph Analytics
-      </p>
-      <p>
-        🔗 <b>Project</b> &nbsp; • &nbsp; 💻 <b>Source Code</b>
-      </p>
-    </td>
-  </tr>
+<p>
+  An AI-powered platform focused on building useful and intelligent experiences.
+</p>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔌 Hardware & IoT</h3>
-      <p>
-        Building hardware-based projects and experimenting with sensors, connected devices and real-world automation.
-      </p>
-      <p>
-        <b>Tech:</b> Arduino • IoT • Sensors • Embedded Systems
-      </p>
-      <p>
-        💻 <b>Explore Projects</b>
-      </p>
-    </td>
+<p>
+  <b>AI</b> • <b>Web Development</b> • <b>APIs</b>
+</p>
 
-    <td width="50%" valign="top">
-      <h3>⚡ Hackathon Projects</h3>
-      <p>
-        Rapidly turning ideas into working prototypes while exploring AI, software and innovative problem-solving.
-      </p>
-      <p>
-        <b>Focus:</b> AI • Innovation • Rapid Prototyping
-      </p>
-      <p>
-        🏆 <b>View Hackathon Builds</b>
-      </p>
-    </td>
-  </tr>
-</table>
+<p>
+  🔗 <a href="#">Live Project</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💻 <a href="#">GitHub</a>
+</p>
+
+---
+
+<h2>🔍 AI-Powered Criminal Network Analysis</h2>
+
+<p>
+  An intelligent investigation system that connects fragmented evidence
+  to uncover hidden relationships, patterns and connections.
+</p>
+
+<p>
+  <b>AI</b> • <b>NLP</b> • <b>Machine Learning</b> • <b>Graph Analytics</b>
+</p>
+
+<p>
+  🔗 <a href="#">Project</a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💻 <a href="#">GitHub</a>
+</p>
+
+---
+
+<h2>🔌 Hardware & IoT Projects</h2>
+
+<p>
+  Building and experimenting with hardware, sensors and connected systems
+  to bring ideas from code into the physical world.
+</p>
+
+<p>
+  <b>Arduino</b> • <b>IoT</b> • <b>Sensors</b> • <b>Embedded Systems</b>
+</p>
+
+<p>
+  💻 <a href="#">Explore Projects</a>
+</p>
+
+---
+
+<h2>⚡ Hackathon Builds</h2>
+
+<p>
+  Turning ideas into working prototypes under pressure while exploring
+  AI, software, hardware and creative problem-solving.
+</p>
+
+<p>
+  <b>AI</b> • <b>Innovation</b> • <b>Rapid Prototyping</b>
+</p>
+
+<p>
+  🏆 <a href="#">View Hackathon Projects</a>
+</p>
