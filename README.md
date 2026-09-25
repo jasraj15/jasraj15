@@ -94,31 +94,50 @@ const Jasraj = {
 
 ---
 
----
-
----
 
 <h1>🚀 Featured Projects</h1>
 
 <h2>🎙️ VOXA</h2>
 
 <p>
-  An AI-powered platform focused on building useful and intelligent experiences.
+  An AI-powered platform focused on building useful and intelligent experiences,
+  combining modern web technologies with AI-driven capabilities.
 </p>
 
 <p>
-  <b>AI</b> • <b>Web Development</b> • <b>APIs</b>
+  <b>Tech:</b> Python • MediaPipe • OpenCV • AI • Web Development • APIs
 </p>
 
 ---
 
-<h2>🔍 AI-Powered Criminal Network Analysis</h2>
+<h2>🔍 TraceX — AI-Powered Criminal Network Analysis</h2>
 
 <p>
-  An intelligent investigation system that connects fragmented evidence
-  to uncover hidden relationships, patterns and connections.
+  An AI-powered investigation system designed to connect fragmented evidence
+  and uncover hidden relationships between people, organizations, locations,
+  events, vehicles, phone numbers and financial links.
 </p>
 
 <p>
-  <b>AI</b> • <b>NLP</b> • <b>Machine Learning</b> • <b>Graph Analytics</b>
+  <b>AI & Intelligence:</b> AI • NLP • Machine Learning • Entity Extraction • Relationship Discovery
+</p>
+
+<p>
+  <b>Graph & Data:</b> Neo4j • PostgreSQL • pgvector • Graph Analytics
+</p>
+
+<p>
+  <b>Backend:</b> Python • FastAPI • Redis • Redis Streams
+</p>
+
+<p>
+  <b>Frontend:</b> React / Next.js
+</p>
+
+<p>
+  <b>Storage & Infrastructure:</b> MinIO / S3 • Docker Compose • Local / Self-Hosted AI
+</p>
+
+<p>
+  <b>Security & Integrity:</b> SHA-256 • Append-Only Audit • Merkle-Style Checkpoints
 </p>
