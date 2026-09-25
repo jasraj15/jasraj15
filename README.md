@@ -96,6 +96,8 @@ const Jasraj = {
 
 ---
 
+---
+
 <h1>🚀 Featured Projects</h1>
 
 <h2>🎙️ VOXA</h2>
@@ -106,12 +108,6 @@ const Jasraj = {
 
 <p>
   <b>AI</b> • <b>Web Development</b> • <b>APIs</b>
-</p>
-
-<p>
-  🔗 <a href="#">Live Project</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  💻 <a href="#">GitHub</a>
 </p>
 
 ---
@@ -125,44 +121,4 @@ const Jasraj = {
 
 <p>
   <b>AI</b> • <b>NLP</b> • <b>Machine Learning</b> • <b>Graph Analytics</b>
-</p>
-
-<p>
-  🔗 <a href="#">Project</a>
-  &nbsp;&nbsp;•&nbsp;&nbsp;
-  💻 <a href="#">GitHub</a>
-</p>
-
----
-
-<h2>🔌 Hardware & IoT Projects</h2>
-
-<p>
-  Building and experimenting with hardware, sensors and connected systems
-  to bring ideas from code into the physical world.
-</p>
-
-<p>
-  <b>Arduino</b> • <b>IoT</b> • <b>Sensors</b> • <b>Embedded Systems</b>
-</p>
-
-<p>
-  💻 <a href="#">Explore Projects</a>
-</p>
-
----
-
-<h2>⚡ Hackathon Builds</h2>
-
-<p>
-  Turning ideas into working prototypes under pressure while exploring
-  AI, software, hardware and creative problem-solving.
-</p>
-
-<p>
-  <b>AI</b> • <b>Innovation</b> • <b>Rapid Prototyping</b>
-</p>
-
-<p>
-  🏆 <a href="#">View Hackathon Projects</a>
 </p>
